@@ -1,0 +1,86 @@
+{
+  "adminEmail": "GeorgeDurieux@github.com",
+  "name": {
+    "el": "Γιώργος Ντουριέ",
+    "en": "Giorgos Durieux"
+  },
+  "bio": {
+    "el": "Προγραμματιστής React",
+    "en": "React Developer"
+  },
+  "siteUrl": "",
+  "layout": [
+    "profile",
+    "links",
+    "actions",
+    "techstack",
+    "github",
+    "portfolio"
+  ],
+  "isAvailable": true,
+  "showGreeting": true,
+  "showStatusBadge": true,
+  "customStatusText": {
+    "el": "",
+    "en": ""
+  },
+  "profileImage": "https://avatars.githubusercontent.com/u/168580892?v=4",
+  "favicon": "👤",
+  "defaultLang": "el",
+  "defaultTheme": "midnight",
+  "seo": {
+    "title": {
+      "el": "",
+      "en": ""
+    },
+    "description": {
+      "el": "",
+      "en": ""
+    },
+    "keywords": ""
+  },
+  "location": {
+    "el": "Αθήνα",
+    "en": "Athens"
+  },
+  "skillsTitle": {
+    "el": "Skills",
+    "en": "Skills"
+  },
+  "portfolioTitle": {
+    "el": "Projects",
+    "en": "Projects"
+  },
+  "timezone": "Europe/Athens",
+  "availableFromDate": "07/07/2026",
+  "statusIncludeDates": "",
+  "statusExcludeDates": "",
+  "githubUsername": "GeorgeDurieux",
+  "githubRepoUrl": "",
+  "githubStatsFallback": {
+    "followers": 0,
+    "reposCount": 0
+  },
+  "contactEmail": "GeorgeDurieux@github.com",
+  "calendlyUrl": "",
+  "googleAnalyticsId": "",
+  "googleClientId": "",
+  "links": [
+    {
+      "url": "https://www.giorgosdurieux.com/",
+      "icon": "fa-solid fa-link",
+      "cssClass": "custom-link",
+      "langKey": "website",
+      "tooltipKey": "tooltip-website",
+      "external": true
+    },
+    {
+      "url": "https://www.linkedin.com/in/george-durieux/",
+      "icon": "fab fa-linkedin",
+      "cssClass": "linkedin",
+      "langKey": "linkedin",
+      "tooltipKey": "tooltip-linkedin",
+      "external": true
+    }
+  ]
+}
