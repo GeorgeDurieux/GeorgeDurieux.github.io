@@ -1,14 +1,15 @@
 {
   "adminEmail": "GeorgeDurieux@github.com",
   "name": {
-    "el": "GEORGE DURIEUX",
-    "en": "GEORGE DURIEUX"
+    "el": "Γιώργος Ντουριέ",
+    "en": "Giorgos Durieux"
   },
   "bio": {
-    "el": "",
-    "en": ""
+    "el": "Προγραμματιστής React",
+    "en": "React Developer"
   },
   "siteUrl": "",
+  "templateId": "developer",
   "layout": [
     "profile",
     "links",
@@ -18,7 +19,7 @@
     "portfolio"
   ],
   "isAvailable": false,
-  "showGreeting": true,
+  "showGreeting": false,
   "showStatusBadge": false,
   "customStatusText": {
     "el": "",
@@ -27,7 +28,7 @@
   "profileImage": "https://avatars.githubusercontent.com/u/168580892?v=4",
   "favicon": "👤",
   "defaultLang": "el",
-  "defaultTheme": "dark",
+  "defaultTheme": "midnight",
   "seo": {
     "title": {
       "el": "",
@@ -40,8 +41,8 @@
     "keywords": ""
   },
   "location": {
-    "el": "",
-    "en": ""
+    "el": "Αθήνα",
+    "en": "Athens"
   },
   "skillsTitle": {
     "el": "Skills",
@@ -51,8 +52,12 @@
     "el": "Projects",
     "en": "Projects"
   },
+  "youtubeVideosTitle": {
+    "el": "Projects",
+    "en": "Projects"
+  },
   "timezone": "Europe/Athens",
-  "availableFromDate": "",
+  "availableFromDate": "14/07/2026",
   "statusIncludeDates": "",
   "statusExcludeDates": "",
   "githubUsername": "GeorgeDurieux",
@@ -61,9 +66,39 @@
     "followers": 0,
     "reposCount": 0
   },
+  "youtubeChannelId": "",
+  "youtubeStatsFallback": {
+    "subscriberCount": 0,
+    "viewCount": 0
+  },
   "contactEmail": "GeorgeDurieux@github.com",
-  "calendlyUrl": "",
-  "googleAnalyticsId": "",
-  "googleClientId": "712586094362-jqgq9rgfv500fkaf6h11qlptc3ua7p0i.apps.googleusercontent.com",
-  "links": []
+  "calendlyUrl": "https://calendly.com/giorgosdurieux/30min",
+  "googleAnalyticsId": "G-YMR46BJFHR",
+  "googleClientId": "",
+  "links": [
+    {
+      "url": "https://www.instagram.com/giorgosdurieux/",
+      "icon": "fab fa-instagram",
+      "cssClass": "instagram",
+      "langKey": "instagram",
+      "tooltipKey": "tooltip-instagram",
+      "external": true
+    },
+    {
+      "url": "https://www.linkedin.com/in/george-durieux/",
+      "icon": "fab fa-linkedin",
+      "cssClass": "linkedin",
+      "langKey": "linkedin",
+      "tooltipKey": "tooltip-linkedin",
+      "external": true
+    },
+    {
+      "url": "https://www.giorgosdurieux.com/",
+      "icon": "fa-solid fa-link",
+      "cssClass": "custom-link",
+      "langKey": "website",
+      "tooltipKey": "tooltip-website",
+      "external": true
+    }
+  ]
 }
