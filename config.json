@@ -1,11 +1,11 @@
 {
-  "adminEmail": "GeorgeDurieux@github.com",
+  "adminEmail": "giorgosdurieux@gmail.com",
   "name": {
     "el": "Γιώργος Ντουριέ",
-    "en": "Giorgos Durieux"
+    "en": "George Durieux"
   },
   "bio": {
-    "el": "Προγραμματιστής React",
+    "el": "Προγραμματιστής React ",
     "en": "React Developer"
   },
   "siteUrl": "",
@@ -13,10 +13,7 @@
   "layout": [
     "profile",
     "links",
-    "actions",
-    "techstack",
-    "github",
-    "portfolio"
+    "actions"
   ],
   "isAvailable": false,
   "showGreeting": false,
@@ -25,10 +22,10 @@
     "el": "",
     "en": ""
   },
-  "profileImage": "https://avatars.githubusercontent.com/u/168580892?v=4",
+  "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocIRvaiKoV8x8qELKgT7m5BlvS-zFj7HsYXbn7lNkY1i5CzF_w=s96-c",
   "favicon": "👤",
-  "defaultLang": "el",
-  "defaultTheme": "midnight",
+  "defaultLang": "en",
+  "defaultTheme": "dark",
   "seo": {
     "title": {
       "el": "",
@@ -41,8 +38,8 @@
     "keywords": ""
   },
   "location": {
-    "el": "Αθήνα",
-    "en": "Athens"
+    "el": "Αθήνα, Ελλάδα",
+    "en": "Athens, Greece"
   },
   "skillsTitle": {
     "el": "Skills",
@@ -57,7 +54,7 @@
     "en": "Projects"
   },
   "timezone": "Europe/Athens",
-  "availableFromDate": "14/07/2026",
+  "availableFromDate": "21/07/2026",
   "statusIncludeDates": "",
   "statusExcludeDates": "",
   "githubUsername": "GeorgeDurieux",
@@ -71,17 +68,17 @@
     "subscriberCount": 0,
     "viewCount": 0
   },
-  "contactEmail": "GeorgeDurieux@github.com",
+  "contactEmail": "giorgosdurieux@gmail.com",
   "calendlyUrl": "https://calendly.com/giorgosdurieux/30min",
-  "googleAnalyticsId": "G-YMR46BJFHR",
-  "googleClientId": "",
+  "googleAnalyticsId": "G-YMR46BJFHR ",
+  "googleClientId": "712586094362-jqgq9rgfv500fkaf6h11qlptc3ua7p0i.apps.googleusercontent.com",
   "links": [
     {
-      "url": "https://www.instagram.com/giorgosdurieux/",
-      "icon": "fab fa-instagram",
-      "cssClass": "instagram",
-      "langKey": "instagram",
-      "tooltipKey": "tooltip-instagram",
+      "url": "https://www.giorgosdurieux.com",
+      "icon": "fa-solid fa-link",
+      "cssClass": "custom-link",
+      "langKey": "website",
+      "tooltipKey": "tooltip-website",
       "external": true
     },
     {
@@ -93,7 +90,7 @@
       "external": true
     },
     {
-      "url": "https://www.giorgosdurieux.com/",
+      "url": "https://www.instagram.com/giorgosdurieux/",
       "icon": "fa-solid fa-link",
       "cssClass": "custom-link",
       "langKey": "website",
