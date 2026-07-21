@@ -13,7 +13,10 @@
   "layout": [
     "profile",
     "links",
-    "actions"
+    "actions",
+    "techstack",
+    "github",
+    "portfolio"
   ],
   "isAvailable": false,
   "showGreeting": false,
