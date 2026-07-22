@@ -94,10 +94,10 @@
     },
     {
       "url": "https://www.instagram.com/giorgosdurieux/",
-      "icon": "fa-solid fa-link",
-      "cssClass": "custom-link",
-      "langKey": "website",
-      "tooltipKey": "tooltip-website",
+      "icon": "fab fa-instagram",
+      "cssClass": "instagram",
+      "langKey": "instagram",
+      "tooltipKey": "tooltip-instagram",
       "external": true
     }
   ]
